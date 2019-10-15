@@ -885,6 +885,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2e7b5c3a6385d444d8b0f31eafd0d084, type: 3}
+      propertyPath: m_TagString
+      value: Car
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2e7b5c3a6385d444d8b0f31eafd0d084, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2625,7 +2629,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isSameDelay: 0
   isRandomObject: 1
-  ObjectToSpwan: {fileID: 0}
+  ObjectToSpwan: {fileID: 1973840997}
   ObjectsToSpwan:
   - {fileID: 1000011089667270, guid: eceb8044928c28f4b94d71188da2f5e5, type: 3}
   - {fileID: 1000012620104880, guid: 9cb1cdd1f22603143953c599668b8de3, type: 3}
@@ -2755,7 +2759,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isSameDelay: 0
   isRandomObject: 1
-  ObjectToSpwan: {fileID: 0}
+  ObjectToSpwan: {fileID: 2078069671}
   ObjectsToSpwan:
   - {fileID: 1000011089667270, guid: eceb8044928c28f4b94d71188da2f5e5, type: 3}
   - {fileID: 1000012620104880, guid: 9cb1cdd1f22603143953c599668b8de3, type: 3}
@@ -2784,7 +2788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isSameDelay: 0
   isRandomObject: 1
-  ObjectToSpwan: {fileID: 0}
+  ObjectToSpwan: {fileID: 2144214365}
   ObjectsToSpwan:
   - {fileID: 1000011089667270, guid: eceb8044928c28f4b94d71188da2f5e5, type: 3}
   - {fileID: 1000012620104880, guid: 9cb1cdd1f22603143953c599668b8de3, type: 3}
